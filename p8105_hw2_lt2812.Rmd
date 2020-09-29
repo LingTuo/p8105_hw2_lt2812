@@ -1,0 +1,12 @@
+---
+title: "Homework 2"
+author: Ling Tuo
+date: 09/29/2020
+output: 
+  github_document:
+    toc: true
+---
+
+This is my solution to HW2. 
+
+## Problem 1
